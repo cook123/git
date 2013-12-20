@@ -1,1 +1,1 @@
-网络操作系统的文件夹xxx
+This is the network operating system folder
