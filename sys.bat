@@ -1,0 +1,1 @@
+D:/tolset/z_tools/nask.exe systemmain.nas systemmain.sys systemmain.lst
